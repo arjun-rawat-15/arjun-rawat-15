@@ -21,7 +21,7 @@ I am a Data Analyst and Data Scientist currently in my **3rd year of BCA**. Comb
 
 *   🎓 **Current Focus:** 3rd Year BCA Student bridging the gap between financial operations and data science.
 *   💼 **Background:** Strong foundation in Accounts, MIS, and billing, giving me a unique edge in financial and business data analytics.
-*   ⚡ **Fun Fact:** I type at 50 WPM, and when I'm building complex Power BI dashboards, I'm designing UI/UX layouts in Figma.
+*   ⚡ **Fun Fact:** I type at 40-50 WPM, and when I'm building complex Power BI dashboards, I'm designing UI/UX layouts in Figma.
 
 ---
 
@@ -78,8 +78,6 @@ I am a Data Analyst and Data Scientist currently in my **3rd year of BCA**. Comb
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjun-rawat-15&show_icons=true&theme=radium" alt="Arjun's GitHub Stats" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjun-rawat-15&theme=radium)
 
 > *"Data is the new oil, but it's only useful if it's refined."*
