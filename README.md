@@ -26,35 +26,36 @@ I am a Data Analyst and Data Scientist currently in my **3rd year of BCA**. Comb
 ---
 
 ### 🛠️ Tech Stack & Skills
-
 **Data Analytics & Science:**
 <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&emsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&emsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&emsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>&emsp;
+<img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="MsExcel" width="40" height="40"/>&emsp;
+<img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" width="40" height="40"/>&emsp;
+<img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="40" height="40"/>&emsp;
 
 **Software Development & Web:**
 <br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&emsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&emsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&emsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&emsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>&emsp;
 
 **Databases & Cloud:**
 <br>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&emsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&emsp;
 
 **Design, UI & Tools:**
 <br>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-![AppSheet](https://img.shields.io/badge/AppSheet-000000?style=flat-square&logo=google&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&emsp;
+<img src="https://img.icons8.com/fluency/48/canva.png" alt="canva" width="40" height="40"/>&emsp;
+<img src="https://img.icons8.com/color/48/google-sheets.png" alt="google-sheets" width="40" height="40"/>&emsp;
+<img src="https://img.icons8.com/color/48/google-appsheet.png" alt="appsheet" width="40" height="40"/>&emsp;
+<img src="https://img.icons8.com/fluency/48/microsoft-powerpoint-2025--v1.png" alt="powerpoint" width="40" height="40"/>&emsp;
 
 ---
 
@@ -66,6 +67,7 @@ I am a Data Analyst and Data Scientist currently in my **3rd year of BCA**. Comb
 *   ☕ **F&B Analytics:** Created a detailed **Starbucks Sales Analysis** model.
 *   📱 **Business Operations (AppSheet):** Developed a fully functional **Textile Inventory Management** application.
 *   🎨 **UI/UX & AI:** Designed a custom **Street Fighter UI** and explored **Temple Neural Analysis**.
+*   ⚒️ **Temple - Neural Analysis:** a conceptual health-tech data product tracking the physiological impact of gravity on the human brain.
 
 ---
 
@@ -79,5 +81,6 @@ I am a Data Analyst and Data Scientist currently in my **3rd year of BCA**. Comb
 ### 📈 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjun-rawat-15&theme=radium)
+
 
 > *"Data is the new oil, but it's only useful if it's refined."*
