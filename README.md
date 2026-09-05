@@ -35,6 +35,7 @@ I am a Data Analyst and Data Scientist currently in my **3rd year of BCA**. Comb
 <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="MsExcel" width="40" height="40"/>&emsp;
 <img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" width="40" height="40"/>&emsp;
 <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="40" height="40"/>&emsp;
+<img src="https://i.postimg.cc/L6Zd7S85/imgi-1-default.jpg" alt="datastudio" width="40" height="40"/>
 
 **Software Development & Web:**
 <br>
@@ -48,6 +49,17 @@ I am a Data Analyst and Data Scientist currently in my **3rd year of BCA**. Comb
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&emsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&emsp;
+<img src="https://i.postimg.cc/TYjy6VKx/SQLite.png" alt="Sqlite" width="40" height="40"/>&emsp;
+
+**AI Tools & Prompt Engineering:**
+<br>
+<img src="https://img.icons8.com/ios/50/chatgpt.png" alt="ChatGPT" width="40" height="40"/>&emsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" width="40" height="40"/>&emsp;
+<img src="https://img.icons8.com/fluency/48/claude-ai.png" alt="Claude AI" width="40" height="40"/>&emsp;
+<img src="https://img.icons8.com/fluency/48/microsoft-copilot.png" alt="Copilot" width="40" height="40"/>&emsp;
+<img src="https://img.icons8.com/?size=100&id=PBeVLDM6af80&format=png&color=000000" alt="Midjourney" width="40" height="40"/>&emsp;
+<img src="https://i.postimg.cc/SNcTCxK9/leonardo-ai-seeklogo.png" alt="Leonardo AI" width="40" height="40"/>&emsp;
+<img src="https://cdn.simpleicons.org/elevenlabs/000000" alt="ElevenLabs" width="40" height="40"/>&emsp;
 
 **Design, UI & Tools:**
 <br>
@@ -56,6 +68,12 @@ I am a Data Analyst and Data Scientist currently in my **3rd year of BCA**. Comb
 <img src="https://img.icons8.com/color/48/google-sheets.png" alt="google-sheets" width="40" height="40"/>&emsp;
 <img src="https://img.icons8.com/color/48/google-appsheet.png" alt="appsheet" width="40" height="40"/>&emsp;
 <img src="https://img.icons8.com/fluency/48/microsoft-powerpoint-2025--v1.png" alt="powerpoint" width="40" height="40"/>&emsp;
+
+**Accounting & ERP Software:**
+<br>
+<img src="https://i.postimg.cc/y8vTygCc/img-Upload1657190195tally-prime-silver-gold-500x500.png" alt="Tally Prime" width="40" height="40"/>&emsp;
+<img src="https://cdn.simpleicons.org/odoo/714B67" alt="Odoo" width="40" height="40"/>&emsp;
+<img src="https://cdn.simpleicons.org/zoho/E42528" alt="Zoho" width="40" height="40"/>&emsp;
 
 ---
 
