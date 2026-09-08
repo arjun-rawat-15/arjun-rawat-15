@@ -79,13 +79,16 @@ I am a Data Analyst and Data Scientist currently in my **3rd year of BCA**. Comb
 
 ### 🚀 Featured Projects & Dashboards
 
-*   📊 **E-Commerce & Retail Analytics:** Built comprehensive sales and performance dashboards for **Myntra** and **Comet Footwear**.
-*   🚗 **Automotive Insights:** Developed a dark-themed **Mahindra Cars** sales dashboard in Power BI tracking regional sales and vehicle specs.
-*   💳 **Fintech Analysis:** Engineered a **Paytm Transactions** dashboard to analyze transaction volumes and service adoption trends.
-*   ☕ **F&B Analytics:** Created a detailed **Starbucks Sales Analysis** model.
-*   📱 **Business Operations (AppSheet):** Developed a fully functional **Textile Inventory Management** application.
-*   🎨 **UI/UX & AI:** Designed a custom **Street Fighter UI** and explored **Temple Neural Analysis**.
-*   ⚒️ **Temple - Neural Analysis:** a conceptual health-tech data product tracking the physiological impact of gravity on the human brain.
+| Project Preview | Project Details |
+| :---: | :--- |
+| <img src="https://github.com/arjun-rawat-15/Mahindra-Automotive-Analytics-PowerBI/blob/main/dashboard.jpg?raw=true" width="400"> | **Mahindra Automotive Analytics**<br>Developed a dark-themed Power BI dashboard to track regional sales, vehicle specifications, and order metrics.<br>**Tools:** Power BI, Excel, Figma<br>[🔗 View Repository](https://github.com/arjun-rawat-15/Mahindra-Automotive-Analytics-PowerBI) |
+| <img src="https://github.com/arjun-rawat-15/Comet-Sneakers-Sales-Analytics-PowerBI/blob/main/Dashboard.jpg?raw=true" width="400"> | **Comet Sneakers Sales Analytics**<br>Interactive Power BI dashboard built with custom DAX measures and tailored Figma visual backgrounds for sneaker sales analysis.<br>**Tools:** Power BI, DAX, Figma<br>[🔗 View Repository](https://github.com/arjun-rawat-15/Comet-Sneakers-Sales-Analytics-PowerBI) |
+| <img src="https://github.com/arjun-rawat-15/Paytm-PowerBI-Dashboard/blob/main/Paytm%20Analysis%20%20By%20Arjun%20Rawat.jpg?raw=true" width="400"> | **Paytm Transactions Analysis**<br>Engineered a financial dashboard to analyze fintech transaction volumes and service adoption trends.<br>**Tools:** Power BI, Excel<br>[🔗 View Repository](https://github.com/arjun-rawat-15/Paytm-PowerBI-Dashboard) |
+| <img src="https://github.com/arjun-rawat-15/Myntra-Order-Analysis-Dashboard/blob/main/Myntra%20Order%20Analysis%20Dashboard.png?raw=true" width="400"> | **Myntra Order Analysis Dashboard**<br>Comprehensive sales and performance dashboard analyzing e-commerce order trends.<br>**Tools:** Microsoft Excel<br>[🔗 View Repository](https://github.com/arjun-rawat-15/Myntra-Order-Analysis-Dashboard) |
+| <img src="https://github.com/arjun-rawat-15/Starbucks-India-Sales-Analytics/blob/main/home.jpg?raw=true" width="400"> | **Starbucks India Sales Analytics**<br>Detailed F&B analytics model tracking regional performance and store-level sales insights.<br>**Tools:** Power BI, Excel<br>[🔗 View Repository](https://github.com/arjun-rawat-15/Starbucks-India-Sales-Analytics) |
+| <img src="https://www.appsheet.com:443/fsimage.png?appid=9b17d444-13da-4d29-9821-f3ea0111ca3f&datasource=google&filename=DocId%3D14JA2c_H9jS-9zFfiVfFfcu9DZHCR9bJE&signature=b2abd65d84a2cdfd02eb3913999a5eda65d1d2a0639e68a62c23ee6342eacb90&tableprovider=google&userid=556755549" width="400"> | **Scratch: Textile Inventory Management**<br>Developed a fully functional, real-time inventory management application for streamlined business operations.<br>**Tools:** AppSheet, Google Sheets<br>[🔗 View Live App](https://www.appsheet.com/start/9b17d444-13da-4d29-9821-f3ea0111ca3f) |
+| <img src="https://github.com/arjun-rawat-15/Street-Fighter-6-UI-Redesign/blob/main/Streefighter.png?raw=true" width="400"> | **Street Fighter 6 Custom UI**<br>Designed a custom character select interface showcasing creative UI/UX and data visualization techniques.<br>**Tools:** Power BI, Figma<br>[🔗 View Repository](https://github.com/arjun-rawat-15/Street-Fighter-6-UI-Redesign) |
+| <img src="https://github.com/arjun-rawat-15/Temple-Neural-Analytics-Core-Work-in-Progress-/blob/main/Home%20Page.jpg?raw=true" width="400"> | **Temple: Neural Analytics Core (WIP)**<br>Advanced analytics interface concept blending dark-mode UI/UX design with complex data structures.<br>**Tools:** Power BI, Design Tools<br>[🔗 View Repository](https://github.com/arjun-rawat-15/Temple-Neural-Analytics-Core-Work-in-Progress-) |
 
 ---
 
