@@ -44,6 +44,7 @@ I am a Data Analyst and Data Scientist currently in my **3rd year of BCA**. Comb
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&emsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&emsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>&emsp;
+<img src="https://i.postimg.cc/ZKH71my1/linux.png" alt="Linux" width="40" height="40"/>&emsp;
 
 **Databases & Cloud:**
 <br>
